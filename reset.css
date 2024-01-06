@@ -1,0 +1,12 @@
+/* Reset some default styles */
+html, body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    box-sizing: border-box;
+  }
+  
+  /* Additional resets or styles can be added here */
+  
